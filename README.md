@@ -2,6 +2,8 @@
 
 **Built with XRPay · Hackathon reference skeleton**
 
+[XRPay website](https://xrpay.it) · [Cloudline](https://github.com/cpayX3/cloudline)
+
 AI agents help merchants restock: discover suppliers, negotiate through Cloudline, request approval, and pay through XRPay using x402, XRPL escrow or optional Mastercard AP4M.
 
 > **Repository scope:** this public repository contains interfaces, adapter placeholders and a static quote-comparison illustration. The product and technical descriptions below describe the private XRPay implementation. The full application, negotiation server, wallet signing and payment execution are not included here.
