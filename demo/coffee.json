@@ -1,0 +1,19 @@
+{
+  "fixtureOnly": true,
+  "buyer": "Riverside Café",
+  "product": "Roasted coffee",
+  "quantityKg": 10,
+  "asset": "RLUSD",
+  "network": "eip155:1449000",
+  "decimals": 18,
+  "budgetBaseUnits": "1000000000000000000",
+  "maximumDeliveryDays": 2,
+  "approvalModes": ["manual", "delegated", "exceptions_only"],
+  "settlementArrangement": "One shared registered AP4M testnet demo payout account",
+  "suppliers": [
+    { "name": "Cedar Coffee & Tea", "unitPriceBaseUnits": "100000000000000000", "deliveryDays": 1 },
+    { "name": "Harbor", "unitPriceBaseUnits": "98000000000000000", "deliveryDays": 1 },
+    { "name": "Metro", "unitPriceBaseUnits": "96000000000000000", "deliveryDays": 2 },
+    { "name": "Hilltop", "unitPriceBaseUnits": "99000000000000000", "deliveryDays": 1 }
+  ]
+}

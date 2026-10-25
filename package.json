@@ -1,0 +1,13 @@
+{
+  "name": "agentic-wholesale-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public reference skeleton for Agentic Wholesale Commerce, built with XRPay and Cloudline",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo": "node src/demo.mjs"
+  }
+}
